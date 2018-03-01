@@ -1,0 +1,1 @@
+# Responsive-Hero-image-does-not-get-cut-off-height-of-hero-image-remains-constant-
